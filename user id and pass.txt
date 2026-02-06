@@ -1,0 +1,22 @@
+Login Access Information
+Admin
+
+user name:- admin@gmail.com
+
+password:- 12345
+
+Teacher
+
+user name:- t1@gmail.com, t2@gmail.com, t3@gmail.com
+
+password:- 12345
+
+Student
+
+user name:- std1@gmail.com, std2@gmail.com, std3@gmail.com
+
+password:- 12345
+
+Parents
+user name:- dad1@gmail.com, dad2@gmail.com, dad3@gmail.com
+password:- 12345

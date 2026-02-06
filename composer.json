@@ -1,0 +1,23 @@
+{
+  "name": "smartskool-manager",
+  "description": "SmartSkool Manager dashboard project by S.Z.M.A ZIAUR RAHMAN",
+  "homepage": "http://example.com",
+  "authors": [
+    {
+      "name": "S.Z.M.A ZIAUR RAHMAN"
+    }
+  ],
+  "main": [
+    "index.html",
+    "dist/css/smartskool-manager.css",
+    "dist/js/smartskool-manager.js"
+  ],
+  "keywords": [
+    "smartskool",
+    "dashboard",
+    "admin",
+    "project",
+    "manager"
+  ],
+  "license": "MIT"
+}
